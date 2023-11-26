@@ -8,11 +8,13 @@ This project is a starting point for a Flutter application.
 Er
 
 - starisk
-  > greater than
+  > greater than works as a light note
 
 * # minus
 
 - works as a bullet
-  === works as a head
+  === works as a continuation
 
 * works as a bullet
+
+* # work as an underlined bulleted header
