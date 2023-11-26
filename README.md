@@ -10,5 +10,8 @@ Er
 - starisk
   > greater than
 
-* minus
-  ===
+* # minus
+
+- works as a bullet
+
+* works as a bullet
